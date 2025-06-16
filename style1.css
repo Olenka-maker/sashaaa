@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(98, 106, 255);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+a{
+    margin-left: 35px;
+    margin-top: 10px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    background-color: white;
+    color: rgb(98, 106, 255);
+    padding: 9px;
+    border-radius: 9px;
+
+}
+
+
+p {
+    font-size: 20px;
+}
+
+
+
+.article-but {
+     text-decoration: none;
+    background-color: white;
+    color: rgb(98, 106, 255);
+    padding: 9px;
+    border-radius: 9px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+main img{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-left: 10px double white;
+}
